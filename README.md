@@ -28,12 +28,6 @@ Una aplicación de escritorio para gestionar tareas, desarrollada con Python y T
     cd gestion-tareas
     ```
 
-3. Instala las dependencias necesarias (si las hubiera).
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Uso
 
 ### Ejecutar desde el código fuente
