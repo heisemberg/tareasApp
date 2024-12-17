@@ -42,7 +42,7 @@ Una aplicación de escritorio para gestionar tareas, desarrollada con Python y T
 
 ### Ejecutar el archivo ejecutable
 
-1. Navega a la carpeta `dist` que se encuentra en el mismo directorio donde ejecutaste `PyInstaller`.
+1. Navega a la carpeta `dist` 
 2. Dentro de la carpeta `dist`, encontrarás el archivo `gestionTareas.exe`.
 3. Haz doble clic en `gestionTareas.exe` para ejecutar la aplicación.
 
